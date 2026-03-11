@@ -1,1 +1,1 @@
-Streamlist
+Streamlit
